@@ -1,7 +1,8 @@
 # ReelEditor releases
 
-Downloads and updates for **ReelEditor**, the Mac app that edits your talking-head clips into finished reels with
-Claude. Get it at [reeleditor.ai](https://reeleditor.ai).
+Downloads and updates for **ReelEditor**, the AI video editor for Mac. Drop in your raw clips and Claude edits them
+into Reels, TikToks and Shorts: talking videos, interviews, tutorials, voice-overs over b-roll or a day in your life,
+with the best takes, captions, graphics and music. Get it at [reeleditor.ai](https://reeleditor.ai).
 
 This repository holds the app's signed installers (the `.dmg`) and the update files the installed app checks for. It
 has no source code.
